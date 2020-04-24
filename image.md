@@ -2,7 +2,7 @@
 title: Ein Beispiel mit Bild
 ---
 
-## Ein Beispiel mit einem Bild
+## Der Blick aus dem Fenster 
 
 ![Dies ist ein Beispielbild.](assets/images/example.jpg)
 
